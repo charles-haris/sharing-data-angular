@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sharing_data';
+  //variable (user_name) that must appear in the child component
+  user_name = 'charles_haris';
+  email = 'bouasse@gmail.com';
+
 }
